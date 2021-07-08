@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2021-06-09 11:54:00 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2021-05-11 16:57:57 +0600"
@@ -517,7 +523,8 @@
       "minecraft:creeper": "2021-05-12 16:04:03 +0600",
       "minecraft:phantom": "2021-05-25 12:10:12 +0600",
       "minecraft:enderman": "2021-05-27 13:08:22 +0600",
-      "minecraft:zombie": "2021-05-09 13:15:12 +0600"
+      "minecraft:zombie": "2021-05-09 13:15:12 +0600",
+      "minecraft:zombie_villager": "2021-06-03 13:49:06 +0600"
     },
     "done": false
   },
@@ -1004,6 +1011,7 @@
       "minecraft:snowy_tundra": "2021-05-14 12:00:10 +0600",
       "minecraft:taiga_hills": "2021-05-10 16:11:29 +0600",
       "minecraft:frozen_river": "2021-05-14 11:59:57 +0600",
+      "minecraft:birch_forest": "2021-06-05 12:35:20 +0600",
       "minecraft:river": "2021-05-10 13:39:14 +0600",
       "minecraft:wooded_mountains": "2021-05-11 17:14:15 +0600",
       "minecraft:wooded_hills": "2021-05-08 15:43:01 +0600",
@@ -1130,6 +1138,12 @@
       "minecraft:crimson_forest": "2021-05-14 11:57:46 +0600"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2021-06-03 14:35:24 +0600"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
@@ -1450,8 +1464,10 @@
       "cooked_mutton": "2021-05-09 13:16:18 +0600",
       "cooked_beef": "2021-05-10 15:34:40 +0600",
       "baked_potato": "2021-05-26 12:04:35 +0600",
+      "porkchop": "2021-06-09 10:59:29 +0600",
       "apple": "2021-05-16 18:14:39 +0600",
       "potato": "2021-05-25 12:01:34 +0600",
+      "poisonous_potato": "2021-06-03 14:25:24 +0600",
       "mutton": "2021-05-20 13:33:30 +0600",
       "bread": "2021-05-09 12:52:40 +0600",
       "rotten_flesh": "2021-05-23 12:58:07 +0600",
@@ -2122,6 +2138,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-05-10 15:47:58 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2021-06-03 14:35:24 +0600"
     },
     "done": true
   },
