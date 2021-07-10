@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2021-07-10 14:30:28 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-05-08 16:01:11 +0600"
@@ -552,11 +558,18 @@
       "minecraft:spider": "2021-05-23 12:54:19 +0600",
       "minecraft:creeper": "2021-05-12 16:04:03 +0600",
       "minecraft:phantom": "2021-05-25 12:10:12 +0600",
+      "minecraft:witch": "2021-07-10 13:58:37 +0600",
       "minecraft:enderman": "2021-05-27 13:08:22 +0600",
       "minecraft:zombie": "2021-05-09 13:15:12 +0600",
       "minecraft:zombie_villager": "2021-06-03 13:49:06 +0600"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-10 14:30:28 +0600"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
@@ -654,6 +667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-10 14:30:28 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-05-08 16:01:09 +0600"
@@ -663,6 +682,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-05-08 16:04:03 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2021-07-10 14:30:28 +0600"
     },
     "done": true
   },
@@ -786,6 +811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2021-07-10 14:30:28 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2021-05-09 13:02:53 +0600"
@@ -894,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-10 14:30:28 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-05-10 12:33:48 +0600"
@@ -909,6 +946,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2021-05-09 12:53:48 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2021-07-10 14:30:28 +0600"
     },
     "done": true
   },
@@ -1127,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2021-07-10 14:30:28 +0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2021-05-10 14:03:31 +0600"
@@ -1178,6 +1227,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-05-09 11:48:14 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-10 14:30:28 +0600"
     },
     "done": true
   },
@@ -1274,6 +1329,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-05-09 11:55:43 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2021-07-10 14:30:28 +0600"
     },
     "done": true
   },
@@ -1496,6 +1557,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2021-05-17 12:25:00 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-07-10 14:30:28 +0600"
     },
     "done": true
   },
@@ -2012,6 +2079,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2021-05-14 20:41:57 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2021-07-10 14:23:16 +0600"
     },
     "done": true
   },
